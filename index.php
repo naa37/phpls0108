@@ -1,4 +1,4 @@
 <?php
 
-echo "13 21 19";
+echo "10";
 //ar.abelyan
