@@ -1,8 +1,4 @@
 <?php
 
-echo "13 7 9 333";
-
-//Artem
-
-
-
+echo "12";
+// MY REPO
