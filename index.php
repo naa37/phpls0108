@@ -1,4 +1,4 @@
 <?php
 
-echo "10 20 30";
+echo "1";
 //hey guys
