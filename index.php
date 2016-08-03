@@ -1,4 +1,4 @@
 <?php
 
-echo "33 55 77 11 99";
+echo "10 20 30";
 //hey guys
