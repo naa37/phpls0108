@@ -1,4 +1,4 @@
 <?php
 
-echo "1";
+echo 'Э1 3 7 5Э';
 //hey guys
