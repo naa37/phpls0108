@@ -19,3 +19,4 @@ Fast-forward
 Auto-merging index.php
 CONFLICT (content): Merge conflict in index.php
 Automatic merge failed; fix conflicts and then commit the result.
+Already up-to-date.
