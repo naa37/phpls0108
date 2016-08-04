@@ -1,4 +1,3 @@
 <?php
 
-echo "13 21 19 37";
-// Vot tak vot chtoli?
+echo "13 21 19 37 13";
