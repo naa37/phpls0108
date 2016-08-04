@@ -1,1 +1,4 @@
-e:\111\index.php 
+<?php
+
+echo "44 88";
+//
