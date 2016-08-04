@@ -16,3 +16,6 @@ Fast-forward
  p         | 12 ------------
  2 files changed, 4 insertions(+), 13 deletions(-)
  delete mode 100644 p
+Auto-merging index.php
+CONFLICT (content): Merge conflict in index.php
+Automatic merge failed; fix conflicts and then commit the result.
